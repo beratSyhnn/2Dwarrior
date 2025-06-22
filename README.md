@@ -1,12 +1,20 @@
-# 🎮 2D Warrior - Unity Oyun Projesi(Acemi)
+Bu proje, eğitim sürecinde bireysel olarak geliştirdiğim bir 2D platform oyunudur. Unity oyun motoru kullanılarak oluşturulmuş ve C# diliyle kodlanmıştır. Oyunda karakter hareketleri, engeller, skor sistemi ve sahne geçişleri gibi temel oyun mekanikleri yer almaktadır.
 
-Bu proje Unity kullanılarak geliştirilen bir 2D savaş oyunudur.
+Geliştirme sürecinde çeşitli kaynaklardan (eğitim videoları, hazır script örnekleri) yararlandım. Ancak bu kodları doğrudan kopyalamak yerine, oyun ihtiyaçlarıma göre analiz ederek yeniden düzenledim ve uyarladım. Böylece her adımda temel oyun geliştirme mantığını öğrenme fırsatı buldum.
 
-## İçerik
-- C# ile yazılmış Unity kodları
-- Build edilmiş çalıştırılabilir oyun dosyaları
-- Veritabanı bağlantı örnekleri, PHP ve SQL dosyaları
-- .rar arşiv içinde hepsi yer almaktadır
+Veritabanı bağlantısı için PHP ve MySQL kullanıldı. XAMPP ortamında çalışacak şekilde kurgulandı. Bu bölümde ise hazır bağlantı kodlarından yararlandım; ancak veritabanı yapısını ve işleyişini anlayarak kendi sistemime entegre ettim ve özelleştirdim.
 
-## Not:
-Bu proje bir portfolyo çalışması. Veritabanı bağlantısı olan, ekran görüntüleri ve tüm kaynak dosyalar `2Dwarrior.rar` içinde sıkıştırılmıştır.
+Projenin build (çalıştırılabilir) dosyası, kodlar, .cs uzantılı dosyalar, veritabanı SQL dosyası ve ekran görüntüleri arşivlenmiş şekilde GitHub reposuna yüklenmiştir.
+
+🛠 Kullandığım Teknolojiler:
+
+Unity Engine
+
+C# ile oyun mantığı kodlama
+
+PHP ile veritabanı bağlantısı
+
+MySQL (XAMPP ortamında)
+
+Notepad++ ile PHP düzenleme
+
