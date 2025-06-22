@@ -6,7 +6,7 @@ Veritabanı bağlantısı için PHP ve MySQL kullanıldı. XAMPP ortamında çal
 
 Projenin build (çalıştırılabilir) dosyası, kodlar, .cs uzantılı dosyalar, veritabanı SQL dosyası ve ekran görüntüleri arşivlenmiş şekilde GitHub reposuna yüklenmiştir.
 
-🛠 Kullandığım Teknolojiler:
+Kullandığım Teknolojiler:
 
 Unity Engine
 
